@@ -1,0 +1,5 @@
+{
+  "name": "Beru",
+  "description": "A web application that simulates an AI-powered Instagram Direct Message bot using the Gemini API. This app provides a realistic chat interface where users can interact with a conversational AI that maintains context, mimicking how a real automated DM bot would function.",
+  "requestFramePermissions": []
+}
